@@ -56,6 +56,6 @@ This portfolio was created to present my technical skills, projects, learning jo
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_LINK
-- GitHub: YOUR_GITHUB_LINK
-- Portfolio: YOUR_PORTFOLIO_LINK
+- LinkedIn: http://www.linkedin.com/in/bhanusri-manukonda-2a30233b3
+- GitHub: https://github.com/Bhanusri-274
+- Portfolio: https://dulcet-semolina-aac8d1.netlify.app/
